@@ -1,0 +1,31 @@
+body{
+background-color: antiquewhite;
+}
+
+.negrito{
+font-weight: bold;
+}
+
+.verde{
+color: green;
+}
+
+.sublinhado{
+    text-decoration: underline;
+}
+
+.vermelho{
+    color: red;
+}
+
+.pequeno{
+    font-size: 12px;
+}
+
+.azul{
+    color: blue;
+}
+
+.grande{
+    font-size: 20px;
+}
